@@ -15,11 +15,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br />
 <br />
-#### Profile Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zackahr)
-project-HOSSAM.project-HOSSAM
-#### Github Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackahr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Coding Status
 <!--START_SECTION:waka-->
