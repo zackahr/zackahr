@@ -1,4 +1,4 @@
-## Hi I'm zezzine <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Zack <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - 👀 I’m interested in data structures and algorithms
 - 🔭 I’m currently working with JavaScript/Typescript/React/Nest/JAVA
@@ -18,6 +18,5 @@
 <br />
 <br />
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=zack12)
-[![zezzine's 42 stats](https://badge.mediaplus.ma/greenbinary/zezzine)](https://github.com/oakoudad/badge42)
 ![leetcode card](https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark)
 ![zezzine's github stats](https://github-readme-stats.vercel.app/api?username=zackahr&show_icons=true&theme=dark)
