@@ -3,7 +3,6 @@
 - 👀 I’m interested in data structures and algorithms
 - 🔭 I’m currently working with JavaScript/Typescript/React/Nest
 - 🌱 I’m currently learning hardware and low level programming
-- 📫 How to reach me: www.linkedin.com/in/ezzine-zakariae
 
 #### Top Languages
 
