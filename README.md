@@ -17,4 +17,4 @@
 <br />
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=zack12)
 ![leetcode card](https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark)
-![zezzine's github stats](https://github-readme-stats.vercel.app/api?username=zackahr&show_icons=true&theme=dark)
+![zackahr's github stats](https://github-readme-stats.vercel.app/api?username=zackahr&show_icons=true&theme=dark)
