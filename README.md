@@ -14,16 +14,8 @@
 </p>
 
 ### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zackahr&show_icons=true&theme=radical&hide_border=true" alt="zackahr's github stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zackahr&theme=radical&hide_border=true" alt="zackahr's streak" />
-</p>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=zack_ziko&theme=dark" alt="leetcode card" />
+  <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark" alt="leetcode card" />
 </p>
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=zack12&theme=radical)
 
