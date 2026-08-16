@@ -2,33 +2,64 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezzine-zakariae/)
 
-- 💼 CTO @ Marwa Retail — leading a 4-dev team, owning the product roadmap and architecture for a multi-store SaaS platform (80+ retail locations)
-- 🔭 Currently building with JavaScript/TypeScript, React, Nest.js, Node/Express, and Python/FastAPI — microservices, REST APIs, LLM-powered NLQ tooling
-- 🧯 Also working on an [Incident Response Toolkit](https://github.com/zackahr/incident-response-toolkit) — a checklist + automation scripts for triaging "what broke, where, and why" when a production app goes down, built around a microservices setup on DigitalOcean
-- 🌱 Currently learning data engineering — starting with Snowflake, AWS Redshift, and BigQuery — alongside Go, System Design, and Cloud Computing
-- 👀 Interested in data structures and algorithms
+- 💼 **CTO @ Marwa Retail** — leading a 4-dev team, owning the product roadmap & microservices architecture for an 80+ location SaaS platform.
+- 🏛️ **Full Stack Developer @ UM6P (Collective Intelligence School)** — built game-theory research platforms and computer vision pipelines (Hugging Face) that enabled the publication of 2 PhD theses.
+- 🌍 **Technical Advisor & Full Stack Engineer @ Swarmcheck (Poland)** — contributed to an AI-assisted collective intelligence & argument mapping platform deployed on Azure.
+- 🔭 **Building with** TypeScript, React, Next.js, Node/Express, Nest.js, and Python/FastAPI — microservices, REST APIs, and LLM-powered NLQ engines.
+- 🧯 **Incident Response Toolkit** — authoring automated triage checklists and scripts for production downtime diagnostics.
+- 🌱 **Data Engineering & Systems** — expanding into Snowflake, AWS Redshift, BigQuery, Go, System Design, and Cloud Architecture.
 
-### 🛠️ Languages and Tools
+---
 
+### 🛠️ Languages & Tools
+
+**Languages & Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,html,css,react,nestjs,postgres,mongodb,docker,aws,azure,git,linux&theme=dark" alt="Languages and tools" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,go,c,cpp,html,css,react,nextjs,vue,tailwind" alt="Languages and Frontend" />
   </a>
 </p>
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zackahr&theme=dark" alt="GitHub Streak" height="165" />
+**Backend & Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,bun" alt="Backend and Frameworks" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zackahr&theme=2077" alt="Repos Per Language" />
+**Databases & Cloud Infrastructure**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,aws,azure,digitalocean,docker,nginx,caddy,linux" alt="Databases and Cloud" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark" alt="LeetCode Stats" />
+**DevOps, AI & Developer Tooling**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,py,pytorch,bots" alt="DevOps and AI Tooling" />
+  </a>
 </p>
+
+---
+
+### 📊 Stats & Metrics
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td width="33%">
+      <img src="https://streak-stats.demolab.com/?user=zackahr&theme=dark" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zackahr&theme=2077" alt="Repos Per Language" width="100%" />
+    </td>
+    <td width="33%">
+      <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark" alt="LeetCode Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 📈 Contribution Activity Graph
 
