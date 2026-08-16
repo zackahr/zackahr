@@ -12,21 +12,21 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,html,css,react,nestjs,postgres,mongodb,docker,aws,azure,git,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,html,css,react,nestjs,postgres,mongodb,docker,aws,azure,git,linux&theme=dark" alt="Languages and tools" />
   </a>
 </p>
 
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zackahr&show_icons=true&count_private=true&theme=dark" alt="Zack's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.deno.dev/api?username=zackahr&show_icons=true&count_private=true&theme=dark" alt="Zack's GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=zackahr&theme=dark" alt="GitHub streak stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackahr&layout=compact&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=zackahr&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark" alt="leetcode card" />
+  <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark" alt="LeetCode stats" />
 </p>
