@@ -19,12 +19,11 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zackahr&theme=2077" alt="GitHub Stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=zackahr&theme=dark" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=zackahr&theme=2077" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zackahr&theme=2077" alt="Repos Per Language" />
 </p>
 
 <p align="center">
