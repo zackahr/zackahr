@@ -29,3 +29,9 @@
 <p align="center">
   <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark" alt="LeetCode Stats" />
 </p>
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zackahr&theme=dracula&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff" alt="Zack's Activity Graph" width="100%" />
+</p>
