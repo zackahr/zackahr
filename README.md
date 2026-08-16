@@ -19,14 +19,14 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.deno.dev/api?username=zackahr&show_icons=true&count_private=true&theme=dark" alt="Zack's GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=zackahr&theme=dark" alt="GitHub streak stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zackahr&theme=2077" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=zackahr&theme=dark" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=zackahr&layout=compact&theme=dark" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=zackahr&theme=2077" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark" alt="LeetCode stats" />
+  <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark" alt="LeetCode Stats" />
 </p>
