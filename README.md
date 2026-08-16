@@ -2,14 +2,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezzine-zakariae/)
 
-- 👀 I’m interested in data structures and algorithms
-- 🔭 I’m currently working with JavaScript/Typescript/React/Nest/Python
-- 🌱 I’m currently learning Go, System Design, and Cloud Computing
+- 💼 CTO @ Marwa Retail — leading a 4-dev team, owning the product roadmap and architecture for a multi-store SaaS platform (80+ retail locations)
+- 🔭 Currently building with JavaScript/TypeScript, React, Nest.js, Node/Express, and Python/FastAPI — microservices, REST APIs, LLM-powered NLQ tooling
+- 🧯 Also working on an [Incident Response Toolkit](https://github.com/zackahr/incident-response-toolkit) — a checklist + automation scripts for triaging "what broke, where, and why" when a production app goes down, built around a microservices setup on DigitalOcean
+- 🌱 Currently learning data engineering — starting with Snowflake, AWS Redshift, and BigQuery — alongside Go, System Design, and Cloud Computing
+- 👀 Interested in data structures and algorithms
 
 ### 🛠️ Languages and Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,html,css,react,nestjs,git,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,html,css,react,nestjs,postgres,mongodb,docker,aws,azure,git,linux&theme=dark" />
   </a>
 </p>
 
@@ -18,4 +21,3 @@
 <p align="center">
   <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark" alt="leetcode card" />
 </p>
-
