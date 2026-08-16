@@ -19,5 +19,14 @@
 ### 📊 Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zackahr&show_icons=true&count_private=true&theme=dark" alt="Zack's GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=zackahr&theme=dark" alt="GitHub streak stats" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackahr&layout=compact&theme=dark" alt="Top languages" />
+</p>
+
+<p align="center">
   <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=zack_ziko&theme=dark" alt="leetcode card" />
 </p>
