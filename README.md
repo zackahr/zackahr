@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezzine-zakariae/)
 
-- 💼 **CTO @ Marwa Retail** — leading a 4-dev team, owning the product roadmap & microservices architecture for an 80+ location SaaS platform.
+- 💼 **EX CTO @ Marwa** — leading a 4-dev team, owning the product roadmap & microservices architecture for an 80+ location SaaS platform.
 - 🏛️ **Full Stack Developer @ UM6P (Collective Intelligence School)** — built game-theory research platforms and computer vision pipelines (Hugging Face) that enabled the publication of 2 PhD theses.
 - 🌍 **Technical Advisor & Full Stack Engineer @ Swarmcheck (Poland)** — contributed to an AI-assisted collective intelligence & argument mapping platform deployed on Azure.
 - 🔭 **Building with** TypeScript, React, Next.js, Node/Express, Nest.js, and Python/FastAPI — microservices, REST APIs, and LLM-powered NLQ engines.
